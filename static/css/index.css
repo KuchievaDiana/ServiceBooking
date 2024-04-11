@@ -1,0 +1,21 @@
+html, body {
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #ffe6f2; /* Пастельный розовый цвет для фона */
+}
+
+#main {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
